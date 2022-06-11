@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="label_current_page_no">Current Page No :</string>
+    <string name="label_default_page_no">Default Page No :</string>
+    <string name="label_no_data_found">No data found</string>
+</resources>
